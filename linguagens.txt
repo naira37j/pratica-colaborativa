@@ -34,10 +34,7 @@ Go - autora: Naira
 É uma linguagem de programação criada pela Google e 
 lançada em código livre em novembro de 2009. É uma linguagem 
 compilada e focada em produtividade e programação concorrente,
-baseada em trabalhos feitos no sistema operacional chamado Inferno. 
-O projeto inicial da linguagem foi feito em setembro de 2007 
-por Robert Griesemer, Rob Pike e Ken Thompson.Atualmente, 
-há implementações para Windows, Linux, Mac OS X e FreeBSD.
+baseada em trabalhos feitos no sistema operacional chamado Inferno.
 
 Kotlin - autor: Thiago
 é uma linguagem de programação multiplataforma, orientada a 
